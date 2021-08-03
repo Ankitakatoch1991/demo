@@ -14,6 +14,6 @@ def duplicate(str):
             str1 += i
     print(str1)
 
-duplicate("ankita katoch")
+duplicate("ankita katoch123")
 
 
